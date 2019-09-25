@@ -1,0 +1,2 @@
+- https://snap.stanford.edu/data/com-Amazon.html
+- https://github.com/GayathriBalakumar/Community-detection-on-social-media/blob/master/Report%20-%20Detecting%20Tight%20Communities%20and%20Friend%20Recommendation%20on%20Facebook.pdf
